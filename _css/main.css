@@ -33,6 +33,10 @@ audio:not([controls]) {
 a {
   background: transparent;
 }
+html, body  {
+	background-color: #00cc00;      
+	margin: 0;
+}
 
 /* Improve readability when focused and also mouse hovered in all browsers.*/
 a:active,
